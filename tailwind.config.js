@@ -7,6 +7,9 @@ module.exports = {
       hero:
         "url('https://html.creativegigstf.com/vCamp/vCamp/images/assets/bg_01.png')",
     },
+    colors:{
+      'day': 'rgb(0,102,0)'
+    },
     extend: {
       animation: {
         blob: "blob 7s infinite",
