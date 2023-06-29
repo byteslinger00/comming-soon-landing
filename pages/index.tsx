@@ -12,7 +12,7 @@ const IndexPage = () => {
   
   const calc = () => {
     const now = new Date().getTime();
-    const futureDate = new Date('20 Jun 2023 24:00:00').getTime();
+    const futureDate = new Date('30 Jun 2023 24:00:00').getTime();
 
     const timeleft = futureDate - now;
 
